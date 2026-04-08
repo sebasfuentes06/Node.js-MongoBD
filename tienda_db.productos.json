@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "69c31c0399e21eecbf6e69c7"
+  },
+  "Categoria": "",
+  "nombre": "",
+  "precio": "",
+  "stock": ""
+},
+{
+  "_id": {
+    "$oid": "69c31dfcf8c0ec085a47abfb"
+  },
+  "categoria": "Proteína",
+  "nombre": "Bypro",
+  "precio": 50,
+  "stock": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c326fbf0aa9353dcea0fde"
+  },
+  "categoria": "Proteína",
+  "nombre": "Bypro",
+  "precio": 50,
+  "stock": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3279bf0aa9353dcea0fe0"
+  },
+  "categoria": "Proteína",
+  "nombre": "Whey",
+  "precio": 250,
+  "stock": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c332370143b7ebaec4c99a"
+  },
+  "categoria": "Proteína",
+  "nombre": "Whey",
+  "precio": 250000,
+  "stock": 25,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c333a90143b7ebaec4c99c"
+  },
+  "categoria": "Proteína",
+  "nombre": "Whey",
+  "precio": 250000,
+  "stock": 50,
+  "__v": 0
+}]
